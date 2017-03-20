@@ -9,7 +9,7 @@ Libhéros est une **startup de e-santé** fondée fin 2015 par Florence, une inf
 A présent nous sommes 4, Flo l’infirmière, JC le financier, Alicia et Alex les ingénieurs – jeunes, motivés, bosseurs – et **on t’attend avec impatience** pour renforcer l’équipe tech !
 
 ### Tes missions
-- Réaliser les travaux de** développement front-end et back-end** sur notre site web, application mobile hybride et plateforme admin dans les délais impliqués par le développement de Libhéros
+- Réaliser les travaux de **développement front-end et back-end** sur notre site web, application mobile hybride et plateforme admin dans les délais impliqués par le développement de Libhéros
 - **Participer** à la détermination de ces travaux et de leur priorité en tant que membre de l’équipe tech (= pour l’instant Alex le CTO, Alicia la Product Manager et nos stagiaires)
 - Etre force de proposition - et d'action ! pour améliorer le **design de nos produits et l’expérience utilisateur** en lien avec les feedbacks de nos différents publics (si tu es plutôt front-end)
 - Etre force de proposition - et d'action ! pour améliorer la **robustesse et la sécurité** de nos produits et travailler sur l'interopérabilité avec nos partenaires (si tu es plutôt back-end)
