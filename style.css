@@ -1,0 +1,112 @@
+@font-face 
+{
+    font-family: 'Futura-Book';
+    src: url('FuturaStd-Book.otf');
+}
+
+@font-face 
+{
+    font-family: 'Futura-Medium';
+    src: url('FuturaStd-Medium.otf');
+}
+
+@font-face 
+{
+    font-family: 'DinPro-Bold';
+    src: url('DINPro-Bold.otf');
+}
+
+@font-face 
+{
+    font-family: 'DinPro-Italic';
+    src: url('DINPro-Italic.otf');
+}
+
+body
+{
+}
+
+#bloc_page
+{
+	width:900px;
+	margin: auto;
+}
+
+header
+{
+	background-color:#0bbbef;
+	text-align:center;
+	padding:10px;
+	border-radius:10px;
+}
+
+h1
+{
+	font-family:DinPro-Bold,sans-serif;
+	color:white;
+	font-size:2em;
+}
+
+h1 img
+{
+	width:200px;
+	position:relative;
+	top:5px;
+}
+
+blockquote
+{
+	font-family:DinPro-Italic,sans-serif;
+	font-size:1.1em;
+}
+
+h2
+{
+	color: #ea827d;
+	font-family:DinPro-Bold,sans-serif;
+}
+
+h3
+{
+	font-family:Futura-Medium,sans-serif;
+}
+
+p,ul
+{
+	font-family:Futura-Book,sans-serif;
+	text-align:justify;
+}
+
+li
+{
+	padding-bottom:8px;
+}
+
+strong
+{
+	color:#1061C0;
+}
+
+#mail
+{
+	text-decoration:underline;
+	font-size:1.1em;
+}
+
+#infos
+{
+	margin-bottom:30px;
+}
+
+@media all and (max-width: 800px)
+{
+
+#bloc_page
+{
+	width:90%;
+}
+
+	
+
+
+}
